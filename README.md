@@ -1,1 +1,1 @@
-# FitCheck
+# Lung Cancer Prediction
